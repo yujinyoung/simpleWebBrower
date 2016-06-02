@@ -8,8 +8,8 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="kr.hs.emirim.dbwlsdud0407.simplewebbrowser.MainActivity"
-    android:oriantation="vertical"
-    >
+
+    android:orientation="vertical">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
